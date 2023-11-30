@@ -16,6 +16,15 @@ void load_script(const char* filename, bool show_script = false) {
     }
     file.close();
 }
-
+void load_Script () {
+    std::string filename;
+    std::cout << "Ingrese el nombre del archivo: ";
+    std::cin >> filename;
+    load_script(    filename.c_str());
+}
+int main() {
+    load_script("C:\\Users\\tinitotin\\OneDrive\\Documentos\\GitHub\\JuanPabloLobato-CasoFinalIntegrador2\\mi_script.txt", true);
+    return 0;
+}
 
 
