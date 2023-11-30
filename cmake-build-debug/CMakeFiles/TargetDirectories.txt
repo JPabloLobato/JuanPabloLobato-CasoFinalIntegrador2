@@ -1,0 +1,3 @@
+C:/Users/tinitotin/OneDrive/Documentos/GitHub/JuanPabloLobato-CasoFinalIntegrador2/cmake-build-debug/CMakeFiles/JuanPabloLobato_CasoFinalIntegrador2.dir
+C:/Users/tinitotin/OneDrive/Documentos/GitHub/JuanPabloLobato-CasoFinalIntegrador2/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/tinitotin/OneDrive/Documentos/GitHub/JuanPabloLobato-CasoFinalIntegrador2/cmake-build-debug/CMakeFiles/rebuild_cache.dir
